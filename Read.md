@@ -1,1 +1,1 @@
-Preview [here](https://JWJapitana.github.com/INTE_DIT2_Projects/Registration/Page1.php).
+Preview [here](https://github.com/JWJapitana/INTE_DIT2_Projects/blob/main/Registration/Page1.php).
